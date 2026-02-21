@@ -112,3 +112,18 @@ Evaluation includes:
 ![End-to-End Evaluation](appendix/full_e2e_eval_plot.png)
 
 ---
+
+## Citation
+
+If you use this dataset or codebase, please cite our paper:
+
+```bibtex
+@article{mitra2025falcon,
+  title={FALCON: Autonomous Cyber Threat Intelligence Mining with LLMs for IDS Rule Generation},
+  author={Mitra, Shaswata and Bazarov, Azim and Duclos, Martin and Mittal, Sudip and Piplai, Aritran and Rahman, Md Rayhanur and Zieglar, Edward and Rahimi, Shahram},
+  journal={arXiv preprint arXiv:2508.18684},
+  year={2025}
+}
+```
+
+Paper: https://arxiv.org/abs/2508.18684
