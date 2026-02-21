@@ -127,3 +127,7 @@ If you use this dataset or codebase, please cite our paper:
 ```
 
 Paper: https://arxiv.org/abs/2508.18684
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
